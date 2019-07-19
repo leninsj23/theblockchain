@@ -1,0 +1,23 @@
+{
+    "name": "blockchain",
+    "version": "1.0.0",
+    "description": "Cadena de bloques en JavaScript",
+    "main": "src/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/lenins23/blockchain.git"
+    },
+    "author": "Lenin",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/lenins23/blockchain/issues"
+    },
+    "homepage": "https://github.com/lenins23/blockchain#readme",
+    "dependencies": {
+        "elliptic": "^6.5.0",
+        "underscore": "^1.9.1"
+    }
+}
