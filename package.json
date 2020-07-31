@@ -17,7 +17,7 @@
     },
     "homepage": "https://github.com/lenins23/blockchain#readme",
     "dependencies": {
-        "elliptic": "^6.5.0",
+        "elliptic": "^6.5.3",
         "underscore": "^1.9.1"
     }
 }
