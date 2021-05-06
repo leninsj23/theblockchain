@@ -18,6 +18,6 @@
     "homepage": "https://github.com/lenins23/blockchain#readme",
     "dependencies": {
         "elliptic": "^6.5.0",
-        "underscore": "^1.9.1"
+        "underscore": "^1.12.1"
     }
 }
